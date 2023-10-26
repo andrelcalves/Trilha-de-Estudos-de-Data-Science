@@ -117,7 +117,6 @@ Um pouco de Engenharia de Dados (para cientistas de dados):
 
 - [Data Warehouse, Data Lake, Data Lake House, Data Mesh](https://www.linkedin.com/posts/rajesh-kr-mehra_datamanagement-datawarehouse-datalake-activity-7112461700250931200-RIlw?utm_source=share&utm_medium=member_desktop)
 - [End to End Azure Data Engineering Real Time Project Demo](https://www.youtube.com/watch?v=iQ41WqhHglk)
-- [You don't need streaming to do real-time machine learning](https://www.linkedin.com/feed/update/urn:li:activity:6969739163927539712/?utm_source=share&utm_medium=member_android) - Chip Huyen
 
 
 # Data Visualization
@@ -223,6 +222,7 @@ Basics:
 - [Regression Networks - The Magic of No Dropout](https://www.kaggle.com/competitions/commonlitreadabilityprize/discussion/260729)
 - [Kaggle Grandmasters Tips to train deep learning models](https://www.youtube.com/watch?v=NCGkBseUSdM)
 - [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
+- [LSTM & GRU in 11 minutes](https://www.youtube.com/watch?v=8HyCNIVRbSU)
 
 Frameworks:
 - [Pytorch vs Tensorflow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
@@ -236,6 +236,7 @@ Tensorflow:
 - [Tensorflow guide - kaggle learn](https://www.kaggle.com/learn-guide/tensorflow)
 
 Pytorch:
+- [Pytorch Model In Minutes - Rob Mulla](https://www.youtube.com/watch?v=tHL5STNJKag)
 - [Pytorch DataLoader animation](https://twitter.com/_ScottCondron/status/1363494433715552259?t=whYsVwzXnMxZ-pHuQn8FMQ&s=08)
 - [Finetuning x Feature Extraction - pytorch docs and examples](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 - [Pytorch - Abhishek Thakur playlist and tutorials](https://www.youtube.com/playlist?app=desktop&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
@@ -539,6 +540,7 @@ O que o Hugging Face é para NLP é análogo ao que a biblioteca timm é para co
 - [Deploy pipelines: Feature, Training, Inference](https://www.linkedin.com/feed/update/urn:li:activity:7076483314697609216/)
 - [Data Roles and Data Value Chain](https://www.linkedin.com/feed/update/urn:li:activity:7076423576031027201/)
 - [4 Types of ML model deployment](https://twitter.com/Aurimas_Gr/status/1656959857205936129)
+- [You don't need streaming to do real-time machine learning](https://www.linkedin.com/feed/update/urn:li:activity:6969739163927539712/?utm_source=share&utm_medium=member_android) - Chip Huyen
 - [Fine-tune and Deploy models with Azure Machine Learning](https://www.youtube.com/watch?v=IQrILl5B0kw)
 - [Dealing with Train-serve Skew in Real-time ML Models](https://building.nubank.com.br/dealing-with-train-serve-skew-in-real-time-ml-models-a-short-guide/)
 - [A/B Testing with stats](https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing)
