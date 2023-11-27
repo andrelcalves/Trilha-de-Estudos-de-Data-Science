@@ -76,6 +76,8 @@ Todas as fontes aqui referenciadas foram vistas e curadas por mim, e este reposi
 - [How to learn data science smartly](https://www.youtube.com/watch?app=desktop&v=csG_qfOTvxw)
 - [Pandas tutorial - kaggle learn](https://www.kaggle.com/learn/pandas) - Fazer o fork dos notebooks e aprender praticando
 - [Use pandas like a pro](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
+- [Dataframe efficiency with dtypes - intro](https://www.youtube.com/watch?v=u4_c2LDi4b8) - Rob Mulla
+- [Example of "reduce_memory_usage" function](https://www.kaggle.com/code/werus23/sleep-critical-point-prepare-data)
 - [pandas cheat sheet](https://www.linkedin.com/posts/jagdish-saini-8098b1138_dataanalysis-dataengineering-datascience-activity-7079772863175532544-pZhh/?utm_source=share&utm_medium=member_android)
 - [Learn Pandas with pokemons](https://www.kaggle.com/ash316/learn-pandas-with-pokemons)
 - [Handling Missing Data](https://www.kaggle.com/robikscube/handling-with-missing-data-youtube-stream)
@@ -333,7 +335,6 @@ Principais conceitos e keywords a conhecer: n-grams, CountVectorizer, TF-IDF, BO
 - [Transformers in Tensorflow](https://www.tensorflow.org/text/tutorials/transformer#setup)
 - [NLP guide - kaggle learn](https://www.kaggle.com/learn-guide/natural-language-processing)
 - [Hugging Face tutorial - video (30 min)](https://www.youtube.com/watch?v=DQc2Mi7BcuI])
-- [Topic Modeling com BERTopic, UMAP, HDBSCAN e Llama-2](https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2)
 
 # LLMs
 
@@ -365,10 +366,13 @@ Large Language Models
   - [Building RAG Chatbots with LangChain](https://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/rag-chatbot.ipynb) - James Briggs
   - [10 Ways to Improve the Performance of Retrieval Augmented Generation Systems](https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c)
   - [Retrieval augmentation tips](https://twitter.com/waydegilliam/status/1663631626440671232?t=VX8IcvpZDXr-CgXMv_rCFA&s=08)
+  - [OpenAI roadmap for building production RAG systems](https://twitter.com/yi_ding/status/1721728060876300461)
+  - [RAG with Mistral-7B and RunnablePassthrough](https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146)
   - [Demystifying Document Question-Answering Chatbot](https://twitter.com/amaarora/status/1684665379308908546?t=H7YE9D55PlAkBGKAEWFx9A&s=08)
   - [Beginner’s Guide to Building LLM-Powered Applications](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
   - [RAGAS metrics framework - evaluating RAG and QA pipelines](https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/)
   - [RAGAS-LangSmith-LangChain](https://docs.smith.langchain.com/#:~:text=LangSmith%20is%20a%20platform%20for,framework%20for%20building%20with%20LLMs.)
+  - [Evaluating Retrieval in long context with LLMs - Pressure Testing - Greg Kamradt](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
 
   
 - Finetuning LLMs
@@ -387,6 +391,13 @@ Large Language Models
   - [Speculative execution for LLMs](https://twitter.com/karpathy/status/1697318534555336961) - Karpathy
   - [Speculative decoding](https://twitter.com/Yampeleg/status/1701290397148856349?t=Iw3PrMwexkboOwg-o3R6sg&s=08) - Yam Peleg
   - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
+  - [LangChain in Production - Microservice Architecture](https://www.youtube.com/watch?v=I_4jEnDwGwI)
+
+
+- Outras aplicações
+  - [Topic Modeling com BERTopic, UMAP, HDBSCAN e Llama-2](https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2)
+  - [Mastering Customer Segmentation with Embeddings and Clustering](https://towardsdatascience.com/mastering-customer-segmentation-with-llm-3d9008235f41#3a33)
+
 
 # Computer Vision
 
@@ -603,7 +614,16 @@ Tools & References:
 
 # Tech Management
 - [Scrum vs Data Science](https://twitter.com/search?q=%40marktenenholtz%20scrum&src=typed_query)
-- [Pair Programming - OpenAI and Google](https://twitter.com/_jasonwei/status/1702392357252211070?t=5QR0Z2cTDH_tsIcZOfLEHw&s=08)
+
+### About Pair Programming:
+
+Para o desenvolvedor e/ou cientista de dados, a melhor forma de programar e desenvolver um projeto é via Pair Programming. E Pair Programming é melhor via trabalho remoto.
+
+  - [Pair Programming at OpenAI and Google](https://twitter.com/_jasonwei/status/1702392357252211070?t=5QR0Z2cTDH_tsIcZOfLEHw&s=08)
+  - [Phillip Singer opinion (Kaggle rank 1)](https://twitter.com/ph_singer/status/1702430003823267951)
+  - [Greg Brockman opinion (OpenAI President)](https://twitter.com/gdb/status/1728200551849136594)
+  - [Jeremy Howard opinion - remote pair programming](https://twitter.com/jeremyphoward/status/1728878957024755986)
+  - [Advantages](https://twitter.com/tomcocobrico/status/1728373956980195446)
 
 
 # Youtube channels
