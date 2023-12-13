@@ -342,6 +342,7 @@ Large Language Models
 
 - Conceitos básicos
   - [State of GPT - Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+  - [The busy person's intro to LLMs - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
   - [Vector databases and use cases](https://www.youtube.com/watch?v=dN0lsF2cvm4)
   - [LLM Based Chatbot to query your Private Knowledge Base - System Architecture](https://twitter.com/Aurimas_Gr/status/1673621343122726912?t=jLJTcYxEaP7-640PYVZJ-g&s=08)
   - [Bits and Bytes + Hugging Face integration](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
@@ -373,6 +374,7 @@ Large Language Models
   - [RAGAS metrics framework - evaluating RAG and QA pipelines](https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/)
   - [RAGAS-LangSmith-LangChain](https://docs.smith.langchain.com/#:~:text=LangSmith%20is%20a%20platform%20for,framework%20for%20building%20with%20LLMs.)
   - [Evaluating Retrieval in long context with LLMs - Pressure Testing - Greg Kamradt](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
+  - [RAG + StrOutputParser, RunnablePassthrough, RunnableMap, itemgetter](https://twitter.com/waseemhnyc/status/1728889388954951717?t=Vy6R43k5l74owmvfPVw7wQ)
 
   
 - Finetuning LLMs
@@ -392,6 +394,7 @@ Large Language Models
   - [Speculative decoding](https://twitter.com/Yampeleg/status/1701290397148856349?t=Iw3PrMwexkboOwg-o3R6sg&s=08) - Yam Peleg
   - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) - Goku Mohandas
   - [LangChain in Production - Microservice Architecture](https://www.youtube.com/watch?v=I_4jEnDwGwI)
+  - [Guardrails and Safeguards wih Amazon Bedrock](https://aws.amazon.com/pt/blogs/aws/guardrails-for-amazon-bedrock-helps-implement-safeguards-customized-to-your-use-cases-and-responsible-ai-policies-preview/?sc_channel=sm&sc_campaign=Machine_Learning&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=aiml_reinvent&linkId=251501736)
 
 
 - Outras aplicações
@@ -446,6 +449,7 @@ Aplicações:
 - [Pytorch tutorial for image classification](https://www.kaggle.com/hinepo/pytorch-tutorial-cv-99-67-lb-99-26) - @hinepo
 - [Ensemble for image classification](https://www.kaggle.com/hinepo/ensemble-by-probabilities-lb-99-43) - @hinepo
 - [Transfer learning for CV guide - kaggle learn](https://www.kaggle.com/learn-guide/transfer-learning-cv)
+- [Dev Ideas - Treinamentos sobre visão computacional](https://csvisaocomputacional.com.br/)
 
 
 ### Pytorch image models (timm)
